@@ -1,10 +1,10 @@
 
 # BOOLEAN_FUNCTION_MINIMIZATION
-```
-Developed by: KAVINRAJA D
 
-RegisterNumber: 212222240047
-```
+Developed by: SANTHOSH SUDHAKAR
+
+RegisterNumber: 212224040296
+
 
 **AIM:**
 
